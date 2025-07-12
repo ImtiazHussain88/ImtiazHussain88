@@ -21,7 +21,8 @@ Hello! I'm Imtiaz Hussain, a dedicated **Digital & E-Commerce Marketing Speciali
   - [Foundations of Digital Marketing & E-Commerce](https://coursera.org/verify/USGD5M09MJ1B)  
   - [Attract and Engage Customers with Digital Marketing](https://coursera.org/verify/CWO1FPSD183N)  
   - [From Likes to Leads: Interact with Customers Online](https://coursera.org/verify/OSFA7W0SONBM)  
-
+  - [Think Outside the Inbox: Email Marketing(https://coursera.org/verify/31NI9P5B82UK)
+  
 ---
 
 ## **🛠️ Skills**  
